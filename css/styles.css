@@ -1,8 +1,5 @@
 body {
-	font-family: "Roboto";
-}
-
-body {
+	font-family: "Roboto", "sans-serif";
 	color: #2e2f42;
 }
 
@@ -49,9 +46,9 @@ body {
 	break-after: #404bbf;
 }
 .header-adress {
+	font-style: normal;
 }
 .about-list .header-mail {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
@@ -65,7 +62,6 @@ body {
 	text-decoration: underline var(#404bbf);
 }
 .header-tel {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
@@ -79,7 +75,6 @@ body {
 .hero {
 }
 .hero-title {
-	font-weight: 700;
 	font-size: 56px;
 	line-height: 1.07;
 	text-align: center;
@@ -87,7 +82,7 @@ body {
 	color: #ffffff;
 }
 .btn {
-	font-family: "Roboto";
+	font-family: "Roboto", "sans-serif";
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
